@@ -18,13 +18,13 @@ public class createAirPlane implements Airplane {
 
 	@Override
 	public String getModel() {
-		// TODO Auto-generated method stub
+		
 		return null;
 	}
 
 	@Override
 	public void setModel(String model) {
-		// TODO Auto-generated method stub
+		
 		
 	}
 }
